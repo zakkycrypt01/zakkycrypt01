@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zakkycrypt01
+- 👋 Hi, I’m @zakkycrypt
 - 👀 I’m interested in ... blockchain development 
 - 🌱 I’m currently learning ... blockchain development 
 - 💞️ I’m looking to collaborate on ... web3 projects
