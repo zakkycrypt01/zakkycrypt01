@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... blockchain development 
 - 🌱 I’m currently learning ... blockchain development 
 - 💞️ I’m looking to collaborate on ... web3 projects
-- 📫 How to reach me ... coinguru941@gmail.com
+- 📫 How to reach me ... zakkycrypt@gmail.com
 - 😄 Pronouns: ...he
 - ⚡ Fun fact: ... coding is life
 
