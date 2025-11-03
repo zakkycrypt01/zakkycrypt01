@@ -16,6 +16,8 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=zakkycrypt01&theme=github_dark&no-frame=false&no-bg=true&margin-w=4)
 
+[![An image of @zakkycrypt01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/zakkycrypt01)](https://holopin.io/@zakkycrypt01)
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
