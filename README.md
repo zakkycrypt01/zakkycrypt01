@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Block_catz</h1>
 💫 About Me:
-🌱 I’m currently learning Solidity, Smart contract auditing<br><br>💬 Ask me about Solidity, Javascript<br><br>📫 How to reach me zakariyahabdulaleem27@gmail.com<br><br>⚡ Fun fact While still learning, I see smart-contact take the world of promise and trust
+🌱 I’m currently learning Solidity, Smart contract auditing<br><br>💬 Ask me about Solidity, Javascript<br><br>📫 How to reach me zakariyahabdulaleem27@gmail.com<br><br>⚡ Fun fact While still learning, I see smart contract take the world of promise and trust
 
 
 ## 🌐 Socials:
